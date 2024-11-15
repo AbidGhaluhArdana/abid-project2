@@ -1,0 +1,169 @@
+body{
+    background-color:rgb(34, 34, 34);
+}    
+img{
+    width: 100%;
+    height: 100%;
+}
+h1{
+    color:white;
+}
+h2{
+    color:white;
+}
+h3{
+    color: rgb(255, 94, 0);
+}
+h3{
+    color: rgb(255, 94, 0);
+}
+h1,h2,h3{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.awalan{
+    padding-left: 50px;
+    line-height: 10px;
+    margin-top: 10px;
+}
+.awalan1{
+    padding-left: 50px;
+    line-height: 10px;
+}
+.container{
+    display: flex;
+    align-items: center;
+}
+.image{
+    margin-left: 800px;
+    width: 150px;
+    border-radius: 50%;
+    margin-top: -95px;
+}
+.text{
+    color: white;
+    font-size: 20px;
+    margin-left: -900px;
+    margin-top: -200px;
+}
+.text2{
+    color: rgb(255, 94, 0) ;
+    margin-left: -145px;
+    margin-top: -145px;
+}
+.text3{
+    margin-left: -215px;
+    margin-top: -50px;
+}
+.text4{
+    margin-left: -145px;
+    margin-top: 10px;
+    color: rgb(255, 94, 0);
+}
+.image2{
+    height: 50px;
+    width: 50px;
+    margin-left: 600px;
+}
+.text6{
+    margin-left: 578px;
+    border-radius: 50px;
+}
+.image3{
+    height: 50px;
+    width: 50px;
+    margin-left: 600px;
+}
+.text7{
+    margin-left: 590px;
+    margin-top: -100px;
+    border-radius: 50px;
+}
+.image4{
+    height: 50px;
+    width: 50px;
+    margin-left: 600px;
+}
+.text8{
+    margin-left: 583px;
+    border-radius: 50px;
+}
+.image5{
+    display: flex;
+    align-items: center;
+    height: 170px;
+    width: 170px;
+    margin-left: 200px;
+    margin-top: -250px;
+    border-radius: 50%;
+}
+.line1{
+    margin-top: 100px;
+}
+.describe{
+    margin-left: 50px;
+}
+.describe2{
+    margin-left: 10px;
+    margin-top: -20px;
+}
+.describe3{
+    margin-left: 10px;
+    margin-top: -20px;
+}
+.close{
+    height: 200px;
+    width: 200px;
+}
+.image6{
+    height: 100px;
+    width: 100px;
+}
+.describe4{
+    margin-top: -20px;
+    margin-left: 10px;
+}
+.describe5{
+    margin-top: -20px;
+    margin-left: 10px;
+}
+.describe6{
+    margin-top: -20px;
+    margin-left: 10px;
+}
+.image7{
+    height: 100px;
+    width: 100px;
+}
+.describe7{
+    margin-left: 30px;
+}
+.describe8{
+    margin-top: -20px;
+    margin-left: 10px;
+}
+.describe9{
+    margin-top: -20px;
+    margin-left: 10px;
+}
+.describe10{
+    margin-top: -20px;
+    margin-left: 10px;
+}
+.describe11{
+    margin-top: -20px;
+    margin-left: 10px;
+}
+.describe12{
+    margin-top: -20px;
+    margin-left: 10px;
+}
+.text9{
+    margin-top: 120px;
+    margin-left: -190px;
+}
+.text10{
+    margin-top: 180px;
+    margin-left: -70px;
+    color: rgb(255, 94, 0);
+}
